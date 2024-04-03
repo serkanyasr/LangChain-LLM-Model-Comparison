@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-google-genai
+openai
+anthropic
+cohere
+streamlit
+python-dotenv
+grpc
