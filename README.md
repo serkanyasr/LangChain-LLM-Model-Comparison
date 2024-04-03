@@ -1,8 +1,9 @@
 # ChatAI-Explorer
 
-AI Chatroom is a project that provides interactive chat experiences with three major language models: ChatGPT, Gemini, and Claude.
+Comparison of 4 major LLM language models with LangChain framework. ChatGPT, Gemini,Command and Claude.
 
-![image](https://github.com/serkanyasr/ChatAI-Explorer/assets/80819652/eb68d1be-6dd2-4606-a963-a51dbd34a7f4)
+![image](https://github.com/serkanyasr/LangChain-LLM-Model-Comparison/assets/80819652/3c7a2be4-3bc7-434c-b26c-7814aff4ea97)
+
 
 
 ## How to Use
@@ -12,13 +13,13 @@ To run the project on your local machine, follow these steps:
 1. Clone the project repository:
 
     ```bash
-    git clone https://github.com/serkanyasr/ChatAI-Explorer.git
+    git clone https://github.com/serkanyasr/LangChain-LLM-Model-Comparison.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ChatAI-Explorer
+    cd LangChain-LLM-Model-Comparison
     ```
 
 3. Install the required dependencies:
@@ -35,7 +36,8 @@ To run the project on your local machine, follow these steps:
 
 
 
-https://github.com/serkanyasr/ChatAI-Explorer/assets/80819652/e53a0006-6c2e-4b53-84bb-42ab4d061f04
+![image](https://github.com/serkanyasr/LangChain-LLM-Model-Comparison/assets/80819652/126df388-45a7-4bf1-a425-c62e0869141d)
+
 
 
 
